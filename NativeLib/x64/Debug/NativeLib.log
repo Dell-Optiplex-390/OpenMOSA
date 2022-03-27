@@ -1,0 +1,50 @@
+﻿  Assembling interrupts_asm.asm...
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  interrupts.cpp
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\interrupts.cpp(51,16): warning C4013: '_reload_segreg' undefined; assuming extern returning int
+  io.cpp
+  lodepng.c
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\libcore.h(48,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vcruntime.h(235): message : see previous definition of 'NULL'
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(693,59): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(711,32): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(712,43): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(735,44): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(753,45): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(1632,63): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(1614,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(3809,83): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(4832,31): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5080,63): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5086,86): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5087,98): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5088,86): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5089,98): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5090,86): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5091,98): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5092,81): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5285,5): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5309,13): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5345,44): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5362,5): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5384,49): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5415,49): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5531,49): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\lodepng.c(5612,35): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  mem.cpp
+  native.cpp
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\native.cpp(10,11): warning C4022: '__invlpg': pointer mismatch for actual parameter 1
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\native.cpp(20,18): warning C4244: 'return': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\native.cpp(25,6): warning C4013: '_hlt' undefined; assuming extern returning int
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\native.cpp(30,6): warning C4013: '_cli' undefined; assuming extern returning int
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\native.cpp(35,6): warning C4013: '_sti' undefined; assuming extern returning int
+  printf.cpp
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\libcore.h(48,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vcruntime.h(235): message : see previous definition of 'NULL'
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\printf.cpp(39,10): warning C4013: 'print' undefined; assuming extern returning int
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\printf.cpp(75,17): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  test.cpp
+C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\NativeLib\libcore.h(48,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vcruntime.h(235): message : see previous definition of 'NULL'
+  Generating Code...
+  NativeLib.vcxproj -> C:\Users\prabh\Downloads\OS-Sharp-multiboot\OS-Sharp-multiboot\src\x64\Debug\NativeLib.lib
